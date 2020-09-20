@@ -2,7 +2,7 @@
 
 # MALIANOV IGOR
 
-## Work experience:
+## WORK EXPERIENCE:
 
 **May 2015 – August 2018**
 
@@ -30,7 +30,7 @@
 
 - Radio network planning, Spare Parts Management and Technical Sales support for LTE/UMTS/GSM
 - Professional technical support for tenders and RFIs:
-- filling in the SoC, preparation the tender documents and presenting the solutions
+    - filling in the SoC, preparation the tender documents and presenting the solutions
 - Professional after sales technical support for radio equipment GSM/WCDMA/LTE
 - Meetings with customers and preparation the specifications based on customer requests
 
@@ -57,10 +57,11 @@ The National Technical University of Ukraine “Kyiv Polytechnic Institute”
 
 Faculty: Avia and space systems
 
-Specialty: Technologies and means of telecommunications.
+Specialty: Technologies and means of telecommunications
 
 ## PROFILES:
 
-GitHub: https://github.com/malianov
+GitHub: [https://github.com/malianov](https://github.com/malianov)
 
-LinkedIn: https://www.linkedin.com/in/malianov/
+LinkedIn: [https://www.linkedin.com/in/malianov/](https://www.linkedin.com/in/malianov/)
+
